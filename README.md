@@ -5,9 +5,10 @@ A small Node.js API wrapper for GhanaPost GPS address lookup.
 ## Versioning
 
 This API is versioned under `/v1`.
-The publicly exposed endpoint is:
+The publicly exposed endpoints are:
 
 - `/address/:address` and `/v1/address/:address`
+- `/lookup/:coordinates` and `/v1/lookup/:coordinates`
 
 ## Endpoints
 
